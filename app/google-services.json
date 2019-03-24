@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "700708768620",
+    "firebase_url": "https://fir-demo-93b22.firebaseio.com",
+    "project_id": "fir-demo-93b22",
+    "storage_bucket": "fir-demo-93b22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700708768620:android:b8b6de16828722e6",
+        "android_client_info": {
+          "package_name": "subtleparesh.fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700708768620-jv2b19i2m4mpcl0ipgnb39i0bdgdi31t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYO_TBdNonBjVHRECDVys2VL5t--QDmFE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
